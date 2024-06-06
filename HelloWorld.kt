@@ -1,4 +1,5 @@
 class HelloWorld(
-    val somethinh: String
+    val somethinh: String,
+    val x: Int
 ) {
 }
